@@ -1,0 +1,75 @@
+/*Estilos da página index.html*/
+
+.center {
+    text-align: center;
+}
+
+.justify{
+    text-align: justify;
+}
+#titulo{
+    font-family: 'Roboto', sans-serif;
+}
+
+#texto{
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+
+}
+
+#menu li{
+    display: inline;
+    padding: 20px;
+    
+
+}
+
+#menu li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+#menu li a:hover{
+    color: gray;
+
+}
+
+.p-30{
+    padding: 30px;
+}
+
+.p-5{
+    padding: 5px;
+}
+
+/*.br-50{
+    border-radius: 50%;
+}
+
+.wh{
+    width: 300px;
+    height: 300px;
+}
+*/
+.tn-social{
+    width: 50px;
+    height: 50px;
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
+
+.ml-50{
+    margin-left: 50px;
+}
+
+/*Estilos da página index.html*/
